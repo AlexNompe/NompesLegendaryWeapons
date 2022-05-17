@@ -1,0 +1,51 @@
+{
+  "mod_elements": [
+    {
+      "name": "NompesLegendaryWeaponsTab",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nompes_legendary_weapons_tab"
+    },
+    {
+      "name": "BlackSteel",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_steel"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabnompes_legendary_weapons_tab": "Nompe\u0027s Legendary Weapons",
+      "item.nompes_legendary_weapons.black_steel": "Black Steel"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "nompes_legendary_weapons",
+    "modName": "Nompe\u0027s Legendary Weapons",
+    "version": "1.0.0",
+    "author": "AlexNompe, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.nompeslegendaryweapons",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
