@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "nompes_legendary_weapons:blocks/elder_debris_ore",
+    "particle": "nompes_legendary_weapons:blocks/elder_debris_ore"
+  }
+}

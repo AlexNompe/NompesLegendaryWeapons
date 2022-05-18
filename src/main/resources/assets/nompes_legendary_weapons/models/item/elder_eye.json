@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "nompes_legendary_weapons:items/elder_eye"
+  }
+}
