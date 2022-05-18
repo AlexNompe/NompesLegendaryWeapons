@@ -143,9 +143,76 @@
       "compiles": true,
       "locked_code": true,
       "registry_name": "molten_fire_ingot_recipe"
+    },
+    {
+      "name": "DeerOpenerSwordSpecial",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deer_opener_sword_special",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DeerOpenerSword",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "deer_opener_sword"
+    },
+    {
+      "name": "Timer",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "timer",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
-  "variable_elements": [],
+  "variable_elements": [
+    {
+      "name": "timer",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    }
+  ],
   "sound_elements": [],
   "language_map": {
     "en_us": {
@@ -158,7 +225,8 @@
       "item.nompes_legendary_weapons.steel_string": "Steel String",
       "itemGroup.tabnompes_legendary_weapons_tab": "Nompe\u0027s Legendary Weapons",
       "item.nompes_legendary_weapons.black_steel": "Black Steel",
-      "item.nompes_legendary_weapons.elder_ingot": "Elder Ingot"
+      "item.nompes_legendary_weapons.elder_ingot": "Elder Ingot",
+      "item.nompes_legendary_weapons.deer_opener_sword": "Deer Opener"
     }
   },
   "foldersRoot": {

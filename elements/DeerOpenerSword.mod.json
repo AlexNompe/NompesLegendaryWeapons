@@ -1,0 +1,34 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "deer_opener",
+    "customModelName": "Normal",
+    "name": "Deer Opener",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NompesLegendaryWeaponsTab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 4.0,
+    "attackSpeed": 1.6,
+    "enchantability": 22,
+    "damageVsEntity": 15.0,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:BlackSteel"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "DeerOpenerSwordSpecial"
+    }
+  }
+}
