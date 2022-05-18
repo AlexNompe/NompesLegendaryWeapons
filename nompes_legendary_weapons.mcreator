@@ -61,7 +61,7 @@
       "type": "block",
       "sortid": 7,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "elder_debris_ore"
     },
     {
@@ -71,18 +71,94 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "elder_debris_loot"
+    },
+    {
+      "name": "StarSpark",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "star_spark"
+    },
+    {
+      "name": "StarSparkRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "star_spark_recipe"
+    },
+    {
+      "name": "ElderEyeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elder_eye_recipe"
+    },
+    {
+      "name": "ElderIngot",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elder_ingot"
+    },
+    {
+      "name": "SteelString",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_string"
+    },
+    {
+      "name": "ElderIngotRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elder_ingot_recipe"
+    },
+    {
+      "name": "SteelStringRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_string_recipe"
+    },
+    {
+      "name": "MoltenFireIngot",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molten_fire_ingot"
+    },
+    {
+      "name": "MoltenFireIngotRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "molten_fire_ingot_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.nompes_legendary_weapons.molten_fire_ingot": "Molten Fire Ingot",
       "block.nompes_legendary_weapons.black_steel_block": "Black Steel Block",
       "item.nompes_legendary_weapons.elder_eye": "Elder Eye",
       "item.nompes_legendary_weapons.elder_debris": "Elder Debris",
+      "item.nompes_legendary_weapons.star_spark": "Star Spark",
       "block.nompes_legendary_weapons.elder_debris_ore": "Elder Debris Ore",
+      "item.nompes_legendary_weapons.steel_string": "Steel String",
       "itemGroup.tabnompes_legendary_weapons_tab": "Nompe\u0027s Legendary Weapons",
-      "item.nompes_legendary_weapons.black_steel": "Black Steel"
+      "item.nompes_legendary_weapons.black_steel": "Black Steel",
+      "item.nompes_legendary_weapons.elder_ingot": "Elder Ingot"
     }
   },
   "foldersRoot": {

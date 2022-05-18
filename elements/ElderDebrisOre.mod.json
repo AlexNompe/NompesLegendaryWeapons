@@ -122,7 +122,7 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "spawnWorldTypes": [
-      "Surface"
+      "CUSTOM:Gbdb"
     ],
     "restrictionBiomes": [],
     "blocksToReplace": [],

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlackSteel"
+      },
+      {
+        "value": "CUSTOM:ElderDebris"
+      },
+      {
+        "value": "CUSTOM:BlackSteel"
+      },
+      {
+        "value": "CUSTOM:ElderDebris"
+      },
+      {
+        "value": "Items.ENDER_EYE"
+      },
+      {
+        "value": "CUSTOM:ElderDebris"
+      },
+      {
+        "value": "CUSTOM:BlackSteel"
+      },
+      {
+        "value": "CUSTOM:ElderDebris"
+      },
+      {
+        "value": "CUSTOM:BlackSteel"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ElderEye"
+    },
+    "name": "elder_eye_recipe",
+    "namespace": "mod"
+  }
+}

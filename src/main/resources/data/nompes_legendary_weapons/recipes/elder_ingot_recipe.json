@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nompes_legendary_weapons:black_steel"
+    },
+    "1": {
+      "item": "nompes_legendary_weapons:elder_debris"
+    },
+    "2": {
+      "item": "nompes_legendary_weapons:black_steel"
+    },
+    "3": {
+      "item": "nompes_legendary_weapons:black_steel"
+    },
+    "4": {
+      "item": "nompes_legendary_weapons:black_steel"
+    },
+    "5": {
+      "item": "nompes_legendary_weapons:black_steel"
+    }
+  },
+  "result": {
+    "item": "nompes_legendary_weapons:elder_ingot",
+    "count": 1
+  }
+}
