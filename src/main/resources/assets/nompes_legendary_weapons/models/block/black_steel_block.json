@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nompes_legendary_weapons:blocks/black_steel_block",
+    "particle": "nompes_legendary_weapons:blocks/black_steel_block"
+  }
+}

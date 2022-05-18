@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nompes_legendary_weapons:black_steel"
+    },
+    "1": {
+      "item": "nompes_legendary_weapons:black_steel"
+    },
+    "2": {
+      "item": "nompes_legendary_weapons:black_steel"
+    },
+    "3": {
+      "item": "nompes_legendary_weapons:black_steel"
+    }
+  },
+  "result": {
+    "item": "nompes_legendary_weapons:black_steel_block",
+    "count": 1
+  }
+}
